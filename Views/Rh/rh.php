@@ -1,13 +1,13 @@
 <!-- <main class="container-fluid">-->
 
-    <div id="page-rh" class="row border text-center">
+    <div id="page-rh" class="row  text-center">
 
-      <article id="side-left" class="col-sm-12 col-lg-7 border">
+      <article id="side-left" class="col-sm-12 col-lg-7">
         <!--<h1>Part left </h1>-->
 
         <div id="side-left-top" class="row border text-start">
           <h3>Identity</h3>
-          <div id="block-matricule" class="col-sm-12 col-lg-3">
+          <div id="block-matricule" class="col-sm-12col-lg-3">
             <div class="input-group input-group-sm">
               <label for="matricule" class="align-self-end input-group-text bg-transparent border-start-0 border-end-0 border-top-0">N° de Matricule :</label>
               <input type="number" id="matricule" class="form-control form-control-sm border-start-0 border-end-0 border-top-0">

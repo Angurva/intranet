@@ -1,4 +1,4 @@
-<nav id="nav-int" class="d-flex flex-column vh-100 position-fixed">
+<nav id="nav-int" class="d-flex flex-column vh-100">
       <div id="nav-top" class="">
         <img src="asset/person.png" class="rounded mx-auto mt-4 d-block" alt="person">
           <div class="text-center">

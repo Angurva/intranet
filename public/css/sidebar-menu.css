@@ -1,12 +1,10 @@
-
 #nav-int{
-  /*height:800px ;*/
-  width: 215px;
   background-color: #1C1F4C;
-  color:#fff;
+  color:#b6b842;
   font-size: 1rem;
   text-decoration: none;
   font-style: normal;
+  font-weight: 900;  
 }
 
 #nav-top #user{
