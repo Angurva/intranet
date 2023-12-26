@@ -1,0 +1,11 @@
+# ignore dossier vendor
+/vendor
+
+# ignore le fichier composer.json et composer.lock
+
+composer.json
+composer.lock
+
+# ignore le dossier trash / corbeille
+
+/trash
