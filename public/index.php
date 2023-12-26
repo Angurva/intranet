@@ -4,12 +4,9 @@ ini_set("display_errors", 1);
 
 require './../vendor/autoload.php';
 
-
-//use App ;
-
 define('BASE_VIEW_PATH', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'Views'. DIRECTORY_SEPARATOR);
 
-//echo BASE_VIEW_PATH;
+require "elements/header.php";
 
 $uri = $_SERVER['REQUEST_URI'];
 
@@ -38,6 +35,8 @@ if (is_array($match))
 else {
     echo 'erreur 404';
 }
+
+require "elements/footer.php";
 
 /*$router = new Router();
 
