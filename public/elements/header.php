@@ -24,7 +24,7 @@
   <header id="header-int" class="">
     <h1>test</h1>
   </header> <!--header -->
-  <div class="row g-2">
+  <div class="row">
     <div class="col-2 pe-2">
       <?php require_once "elements/sidebar-menu.php"; ?>
     </div>
